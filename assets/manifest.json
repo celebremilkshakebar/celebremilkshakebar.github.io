@@ -1,0 +1,272 @@
+[
+  {
+    "file": "hero-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 26570
+  },
+  {
+    "file": "hero-800.webp",
+    "width": 800,
+    "height": 1200,
+    "bytes": 48136
+  },
+  {
+    "file": "hero-1200.webp",
+    "width": 1200,
+    "height": 1800,
+    "bytes": 77972
+  },
+  {
+    "file": "carrinho-480.webp",
+    "width": 480,
+    "height": 480,
+    "bytes": 21470
+  },
+  {
+    "file": "carrinho-800.webp",
+    "width": 800,
+    "height": 800,
+    "bytes": 48596
+  },
+  {
+    "file": "carrinho-1200.webp",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 90370
+  },
+  {
+    "file": "balcao-480.webp",
+    "width": 480,
+    "height": 721,
+    "bytes": 35192
+  },
+  {
+    "file": "balcao-800.webp",
+    "width": 800,
+    "height": 1202,
+    "bytes": 75384
+  },
+  {
+    "file": "balcao-1200.webp",
+    "width": 1023,
+    "height": 1537,
+    "bytes": 106886
+  },
+  {
+    "file": "preparo-480.webp",
+    "width": 480,
+    "height": 853,
+    "bytes": 44454
+  },
+  {
+    "file": "preparo-800.webp",
+    "width": 800,
+    "height": 1422,
+    "bytes": 86352
+  },
+  {
+    "file": "preparo-1200.webp",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 138332
+  },
+  {
+    "file": "morango-480.webp",
+    "width": 480,
+    "height": 853,
+    "bytes": 55378
+  },
+  {
+    "file": "morango-800.webp",
+    "width": 800,
+    "height": 1422,
+    "bytes": 109708
+  },
+  {
+    "file": "morango-1200.webp",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 176768
+  },
+  {
+    "file": "oreo-480.webp",
+    "width": 480,
+    "height": 853,
+    "bytes": 39740
+  },
+  {
+    "file": "oreo-800.webp",
+    "width": 800,
+    "height": 1422,
+    "bytes": 82844
+  },
+  {
+    "file": "oreo-1200.webp",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 130278
+  },
+  {
+    "file": "equipe-480.webp",
+    "width": 480,
+    "height": 853,
+    "bytes": 40918
+  },
+  {
+    "file": "equipe-800.webp",
+    "width": 800,
+    "height": 1422,
+    "bytes": 79822
+  },
+  {
+    "file": "equipe-1200.webp",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 126264
+  },
+  {
+    "file": "casamento-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 24982
+  },
+  {
+    "file": "casamento-800.webp",
+    "width": 800,
+    "height": 1200,
+    "bytes": 46152
+  },
+  {
+    "file": "casamento-1200.webp",
+    "width": 1200,
+    "height": 1800,
+    "bytes": 74904
+  },
+  {
+    "file": "logo.webp",
+    "width": 463,
+    "height": 600,
+    "bytes": 57342
+  },
+  {
+    "file": "favicon.png",
+    "width": 64,
+    "height": 64,
+    "bytes": 3058
+  },
+  {
+    "file": "compartilhamento.jpg",
+    "width": 1200,
+    "height": 630,
+    "bytes": 84940
+  },
+  {
+    "file": "feedback.mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 2975074,
+    "duration_seconds": 11.82,
+    "video_codec": "H264",
+    "audio_codec": "AAC",
+    "faststart": true
+  },
+  {
+    "file": "feedback-poster.webp",
+    "width": 720,
+    "height": 1280,
+    "bytes": 62564
+  },
+  {
+    "file": "hero-loop.mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 9531242,
+    "duration_seconds": 60.17,
+    "video_codec": "H264",
+    "audio_codec": null,
+    "fps": 24,
+    "faststart": true
+  },
+  {
+    "file": "hero-loop-mobile.mp4",
+    "width": 480,
+    "height": 854,
+    "bytes": 4670817,
+    "duration_seconds": 60.17,
+    "video_codec": "H264",
+    "audio_codec": null,
+    "fps": 24,
+    "faststart": true
+  },
+  {
+    "file": "detalhes-480.webp",
+    "width": 480,
+    "height": 849,
+    "bytes": 25890
+  },
+  {
+    "file": "detalhes-800.webp",
+    "width": 800,
+    "height": 1415,
+    "bytes": 45718
+  },
+  {
+    "file": "detalhes-1200.webp",
+    "width": 1179,
+    "height": 2086,
+    "bytes": 71348
+  },
+  {
+    "file": "feedback-2.mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 3035409,
+    "duration_seconds": 9.9,
+    "video_codec": "H264",
+    "audio_codec": "AAC",
+    "fps": 29.99,
+    "faststart": true
+  },
+  {
+    "file": "feedback-2-poster.webp",
+    "width": 720,
+    "height": 1280,
+    "bytes": 70954
+  },
+  {
+    "file": "feedback-3.mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 8665088,
+    "duration_seconds": 33.18,
+    "video_codec": "H264",
+    "audio_codec": "AAC",
+    "fps": 30.0,
+    "faststart": true
+  },
+  {
+    "file": "feedback-3-poster.webp",
+    "width": 720,
+    "height": 1280,
+    "bytes": 111354
+  },
+  {
+    "file": "favoritos-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 71274
+  },
+  {
+    "file": "favoritos-800.webp",
+    "width": 800,
+    "height": 1067,
+    "bytes": 180288
+  },
+  {
+    "file": "favoritos-1200.webp",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 355420
+  }
+]
